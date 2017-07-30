@@ -1,6 +1,6 @@
 baseURL = "http://linkuprecycling.com/"
 languageCode = "en-us"
-title = "LinkUP"
+title = "LinkUP Recycling"
 theme = "minimal"
 publishDir = "docs"
 
